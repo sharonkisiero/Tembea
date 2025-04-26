@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+    }
+    .container{
+        display: flex;
+        justify-content: space-between;
+        padding-right: 50px;
+        padding-left: 50px;
+        background-color: aquamarine;
+        padding: 15px; 
+    
+}
+.logo{
+    display: flex;
+    padding: 5px;
+}
+.logo h1{
+    padding-left: 15px;
+}
+.nav-links ul{
+    display: flex;
+    justify-content: space-between;
+    position: relative;right: 5px;
+}
+.nav-links ul li{
+    padding: 5px;
+    list-style-type:none ;
+    }
+    .nav-links ul li a{ 
+        text-decoration: none;
+        color: black;
+
+        
+        }
+        .background{
+            background-image: url(../Capstoneproject/images/kicc.jpg);
+            background-position: center;
+            background-size: cover;
+            height: 800px;
+            text-align: center;
+        }
+        .explore{
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-top: 200px;
+        }
+        .explore h2{
+            font-size: 50px;
+        }
+        .explore a{
+            text-decoration: none;
+            color:blue ;
+            font-size: 30px;
+            background: white;
+            padding: 20px;
+            border-radius: 20px;
+            margin-top: 30px;
+
+        }
+        .explore p{
+            font-size: 40px;
+            margin-top: 10px;
+        }
+        #about{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 100px;
+            background-color: aquamarine;
+            height: 800px;
+            background-image:url(../Capstoneproject/images/zebra.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+        }
+    #mission{
+        width: 500px;
+        align-items: center;
+        padding-top: 20px;
+        
+    }
+    #mission h3{
+        text-align: center;
+    
+    }
+    #vission{
+        width: 500px; ;
+        padding-top: 20px ;
+    }
+    #vission h3{
+        text-align: center;
+
+    
+        
+    }
+#destination{
+    background-color: aquamarine;
+    height: 600px;
+    
+}
+#destination h3 {
+    text-align: center;
+    font-size: 30px;
+}
+#destination1{
+    display: flex;
+                 
+            background-color: aquamarine;
+            
+            width: 1200px;
+            flex-wrap: wrap;
+            justify-content: center;
+         
+            padding: 30px;
+            gap: 20px;
+            text-align: center;
+            font-size: 15px;
+            
+
+
+}
+#nairobi{
+    width: 30%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#diani{
+    width: 30%;
+    background-color: beige;
+    padding:20px ;
+    border-radius: 10px;
+
+}
+
+#kitale{
+    width: 30%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+}
+#elgon{
+    width: 30%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+}
+#maasai{
+    width: 30%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 10px;
+}
+    #Destination{
+        text-align: center;
+        width: 500px;
+        padding: top 20px; ;
+        
+    }
+
+#Destination h3{
+    width: 500px;
+    align-items: center;
+    padding-top: 20px;
+    }
+    .activity1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        text-align: center;
+        font: size 20px; ;
+        background-color: aquamarine;
+        
+    }
+        .contact{
+            text-align: center;
+            background-color: aquamarine;
+            background-size: cover;
+            
+        }
+        
+
+   
