@@ -37,7 +37,7 @@
         
         }
         .background{
-            background-image: url(../Capstoneproject/images/kicc.jpg);
+            background-image: url("../images/kicc.jpg");
             background-position: center;
             background-size: cover;
             height: 800px;
@@ -74,7 +74,7 @@
             padding-top: 100px;
             background-color: aquamarine;
             height: 800px;
-            background-image:url(../Capstoneproject/images/zebra.jpg);
+            background-image:url(../images/zebra.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             
